@@ -1,3 +1,8 @@
+This is a simple quiz app that I use to illustrate conditional rendering and rendering with for-loops.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
